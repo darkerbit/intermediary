@@ -11147,7 +11147,7 @@ METHOD	ng	()V	aR	method_4241
 METHOD	ng	()V	aS	method_4242
 METHOD	ng	()Z	aT	method_4243
 METHOD	ng	()V	aU	method_4244
-METHOD	ng	()I	aW	method_4245
+METHOD	ng	()I	aW	method_8000
 METHOD	ng	()I	aX	method_4246
 METHOD	ng	()F	aY	method_4247
 METHOD	ng	()I	aZ	method_4248
